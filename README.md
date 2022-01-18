@@ -1,3 +1,3 @@
 # CargoDeliveryTable
 
-A table shows the status of cargos
+A table that customers can follow the information about their package
